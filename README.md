@@ -2,6 +2,12 @@
 
 Aplikasi To-Do List ini dibangun menggunakan Python `tkinter` dan tema `ttkbootstrap`. Pengguna dapat menambah, menandai selesai, dan menghapus tugas, dengan data yang disimpan dalam file `tugas.json` untuk memastikan data tetap ada saat aplikasi dibuka kembali.
 
+
+## Prepiew
+
+![Preview](test.png)
+
+
 ## Fitur
 
 - Menambah tugas baru
@@ -18,8 +24,3 @@ Instal `ttkbootstrap` dengan:
 
 ```bash
 pip install ttkbootstrap
-
-
-## Prepiew
-
-![Preview](test.png)
